@@ -1,6 +1,5 @@
 const checkBalanced = (rootNode) => {
   /* Your code here */
-
 };
 
 class BinarySearchTree {
@@ -73,5 +72,5 @@ class BinarySearchTree {
 
 module.exports = {
   BinarySearchTree,
-  checkBalanced,
+  checkBalanced
 };
